@@ -17,3 +17,4 @@
         minute.textContent = min;
         seconds.textContent = sec;
       }, 1000);
+</script>

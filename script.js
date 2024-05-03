@@ -1,4 +1,4 @@
-<script>const hour = document.getElementById("hour");
+const hour = document.getElementById("hour");
       const minute = document.getElementById("minute");
       const seconds = document.getElementById("seconds");
       
@@ -17,4 +17,4 @@
         minute.textContent = min;
         seconds.textContent = sec;
       }, 1000);
-</script>
+
